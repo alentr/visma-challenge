@@ -1,0 +1,5 @@
+rate-limit:
+  in-memory-duration: 30s
+  refillInterval: 1s
+  replenishRate: 100
+  burstCapacity: 100
